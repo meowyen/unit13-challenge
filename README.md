@@ -6,7 +6,4 @@ Files
 - [Lambda function Python code](lambda_function.py)
 - [Amazon Lex Bot exported archive](RoboAdvisor_Bot_LEX_V1.zip)
 - [Icon assets for bot](assets)
-
-### Bot Testing
-
-![](lex_recording.m4v)
+- [Video of bot testing](lex_recording.mov)
