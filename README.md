@@ -10,5 +10,5 @@ Files
 ### Bot Testing
 
 <video width="320" height="240" controls>
-  <source src="lex_recording.m4v" type="video/mp4">
+  <source src="lex_recording.mov" type="video/mp4">
 </video>
